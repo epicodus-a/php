@@ -4,7 +4,6 @@
 ### Description
 - A part of home page, Mar 23rd, 2018
  
- _By Adriana_
 
 
 ### Setup/Installation Requirements
@@ -22,6 +21,9 @@
 - CSS
 - bootstrap4
 - jQuery
+
+### Author/Contributor
+- Adriana
 
 ### License
 - MIT
