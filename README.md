@@ -4,12 +4,11 @@
 ### Description
 - A part of home page, Mar 23rd, 2018
  
-_By Adriana_
+ _By Adriana_
 
 
 ### Setup/Installation Requirements
-
-- clone to local git clone https://github.com/epicodus-a/php
+- clone to local `git clone https://github.com/epicodus-a/php.git`
 - run index.html 
 
 ### Known Bugs
