@@ -18,3 +18,12 @@ hr{
 	font-weight: bold;
 	color: #fff;
 }
+footer {
+	height: 20vh;
+}
+footer ul li{
+	list-style-type: none;
+	float: left;
+	margin-left: 4rem;
+	text-align: center;
+}
