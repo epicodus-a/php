@@ -1,0 +1,14 @@
+
+/* HEADER
+-------------------------------------------------------------------------*/
+#hero {
+	background: linear-gradient(to right, rgba(34, 37, 29, 0.88), rgba(44, 38, 48, 0.96)), url(../img/hero.jpg) fixed center center;
+
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 0 60%;
+}
+.hero-content h1 {
+	font-weight: bold;
+	color: #fff;
+}
